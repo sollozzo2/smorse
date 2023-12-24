@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smorse/static/css/main.7fa9c2d2.css",
+    "main.js": "/smorse/static/js/main.f4a0d4da.js",
+    "static/js/787.d83fdf10.chunk.js": "/smorse/static/js/787.d83fdf10.chunk.js",
+    "static/media/logo.svg": "/smorse/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/smorse/index.html",
+    "main.7fa9c2d2.css.map": "/smorse/static/css/main.7fa9c2d2.css.map",
+    "main.f4a0d4da.js.map": "/smorse/static/js/main.f4a0d4da.js.map",
+    "787.d83fdf10.chunk.js.map": "/smorse/static/js/787.d83fdf10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa9c2d2.css",
+    "static/js/main.f4a0d4da.js"
+  ]
+}
